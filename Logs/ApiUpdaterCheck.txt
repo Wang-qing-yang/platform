@@ -1,0 +1,40 @@
+[api-updater (non-obsolete-error-filter)] 2022/5/8 22:15:57 : Starting B:/bishe/Editor/2020.3.33f1c2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 442.7716ms
+moved types parse time: 244ms
+candidates parse time : 6ms
+C# parse time         : 571ms
+candidates check time : 294ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 2022/5/13 20:37:49 : Starting B:/bishe/Editor/2020.3.33f1c2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 411.5101ms
+moved types parse time: 92ms
+candidates parse time : 1ms
+C# parse time         : 350ms
+candidates check time : 52ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022/5/18 21:20:54 : Starting B:/bishe/Editor/2020.3.33f1c2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 363.9734ms
+moved types parse time: 84ms
+candidates parse time : 1ms
+C# parse time         : 338ms
+candidates check time : 42ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2022/5/18 21:21:13 : Starting B:/bishe/Editor/2020.3.33f1c2/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 151.5932ms
+moved types parse time: 70ms
+candidates parse time : 1ms
+C# parse time         : 265ms
+candidates check time : 42ms
+console write time    : 0ms
+

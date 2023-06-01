@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "50f09b44-a13d-b696-1b9a-c2e5c7dea92e": {
+      "ProjectGuid": "50f09b44-a13d-b696-1b9a-c2e5c7dea92e",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "f82f0600-2890-bbcd-1d06-d21258e51154": {
+      "ProjectGuid": "f82f0600-2890-bbcd-1d06-d21258e51154",
+      "DisplayName": "Unity.Robotics.ROSTCPConnector.Messages",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "25149838-3785-f7ba-5a42-96db33d4a08f": {
+      "ProjectGuid": "25149838-3785-f7ba-5a42-96db33d4a08f",
+      "DisplayName": "Unity.Robotics.ROSTCPConnector",
+      "ColorIndex": 2
+    },
+    "1a494837-dc49-f1e7-60af-a486cc6332f0": {
+      "ProjectGuid": "1a494837-dc49-f1e7-60af-a486cc6332f0",
+      "DisplayName": "Unity.Robotics.Visualizations",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
